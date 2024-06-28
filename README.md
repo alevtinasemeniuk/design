@@ -1,4 +1,4 @@
-# Test design techniques
+# Test Design Techniques
 
 For testing the web application [demoshopping.ru](https://demoshopping.ru/), test design techniques were applied to the Registration, Catalog, and Payment modules:
 
