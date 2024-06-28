@@ -2,7 +2,6 @@
 
 This section is dedicated to designing test cases for the web application [demoshopping.ru](https://demoshopping.ru/) using test design techniques.  
 demoshopping.ru is a web application that allows users to register, log in, browse the catalog, add items to the cart, place orders, and make payments.
-Purpose:
 
 For testing the web application, test design techniques were applied to the Registration, Catalog, and Payment modules:
 
